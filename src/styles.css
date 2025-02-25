@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .page {
+    margin: 1rem;
+  }
+  
+  button {
+    margin: 0.25rem;
+  }
+  
+  input, select {
+    margin-left: 0.5rem;
+  }
